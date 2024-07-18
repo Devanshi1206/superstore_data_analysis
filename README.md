@@ -15,6 +15,8 @@ Skills:
     Pandas
     Matplotlib
     Machine Learning Algorithm
+    XGBoost
+    Random Forest Regressor
     
 This Notebook shows:
 
@@ -25,6 +27,6 @@ This Notebook shows:
 
 ## Data Analysis:
 
-I used the Supervised Machine learning Technique.
+I used Machine Learning Techniques like XGBoost and Random Forest Regressor.
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
